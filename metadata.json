@@ -1,13 +1,13 @@
 {
-  "name": "tca_puppet_hosts",
-  "version": "2.9.0",
+  "name": "tca_puppet-hosts",
+  "version": "2.9.1",
   "author": "ghoneycutt",
   "summary": "Manages host entries",
   "description": "Can ensure entries for localhost, localhost6, and $::fqdn,\nincluding aliases and optionally purge unmanaged entries.",
   "license": "Apache-2.0",
-  "source": "git://github.com/Trust-Company-of-America/tca_puppet_hosts.git",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_hosts",
-  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_hosts/issues",
+  "source": "git://github.com/Trust-Company-of-America/tca_puppet-hosts.git",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-hosts",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet-hosts/issues",
   "requirements": [
     {"name":"puppet","version_requirement":">= 3.0.0"}
   ],
